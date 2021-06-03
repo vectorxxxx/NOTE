@@ -1,6 +1,6 @@
 # 使用Jekyll + GitHub Pages免费搭建个人博客
 
-![](https://img.shields.io/badge/Ruby-v2.7.3--1-red)![](https://img.shields.io/badge/RubyGems-v3.2.18-red)![](https://img.shields.io/badge/Git-v2.31.1-red)![](https://img.shields.io/badge/Node.js-v14.17.0-yellowgreen)![](https://img.shields.io/badge/Python-v3.9-yellowgreen)
+![](https://img.shields.io/badge/Ruby-v2.7.3--1-red) ![](https://img.shields.io/badge/RubyGems-v3.2.18-red) ![](https://img.shields.io/badge/Git-v2.31.1-red) ![](https://img.shields.io/badge/Node.js-v14.17.0-yellowgreen) ![](https://img.shields.io/badge/Python-v3.9-yellowgreen)
 
 :sparkles: **My Blog**：[无名の辈 | VectorX (vectorxxxx.github.io)](https://vectorxxxx.github.io/)
 
