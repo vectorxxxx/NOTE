@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Ruby-v2.7.3--1-red)![](https://img.shields.io/badge/RubyGems-v3.2.18-red)![](https://img.shields.io/badge/Git-v2.31.1-red)![](https://img.shields.io/badge/Node.js-v14.17.0-yellowgreen)![](https://img.shields.io/badge/Python-v3.9-yellowgreen)
 
-**:sparkles:My Blog**：[无名の辈 | VectorX (vectorxxxx.github.io)](https://vectorxxxx.github.io/)
+:sparkles: **My Blog**：[无名の辈 | VectorX (vectorxxxx.github.io)](https://vectorxxxx.github.io/)
 
 ![image-20210603000219393](https://gitee.com/vectorx/ImageCloud/raw/master/html5/20210603000220.png)
 
@@ -16,7 +16,7 @@
 - :white_large_square: Node.js：[Download | Node.js (nodejs.org)](https://nodejs.org/en/download/)
 - :white_large_square: Python：[Download Python | Python.org](https://www.python.org/downloads/)
 
-:sparkles:因为我本地已经有`Node.js`和`Python`环境了，所以无法验证是否确实需要。不过参考了很多教程，大多数是没有说明需要安装两种环境的。如果你在安装过程中遇到问题，可以再选择安装。
+:sparkles: 因为我本地已经有`Node.js`和`Python`环境了，所以无法验证是否确实需要。不过参考了很多教程，大多数是没有说明需要安装两种环境的。如果你在安装过程中遇到问题，可以再选择安装。
 
 
 
@@ -35,15 +35,15 @@ gem install jekyll
 gem install bundler
 ```
 
-✨至此，我们的基本环境已经搭建完毕
+:sparkles: 至此，我们的基本环境已经搭建完毕
 
 
 
 ## Clone
 
-:sparkles:`Github`上`Fork`项目：[wu-kan/wu-kan.github.io: my homepage & template for jekyll-theme-WuK](https://github.com/wu-kan/wu-kan.github.io)
+:sparkles: `Github`上`Fork`项目：[wu-kan/wu-kan.github.io: my homepage & template for jekyll-theme-WuK](https://github.com/wu-kan/wu-kan.github.io)
 
-:sparkles:修改`Settings`设置：格式`your_username.github.io`
+:sparkles: 修改`Settings`设置：格式`your_username.github.io`
 
 ![image-20210602220529246](https://gitee.com/vectorx/ImageCloud/raw/master/html5/20210602220532.png)
 
@@ -76,8 +76,7 @@ bundle exec jekyll serve --port [port]
 
 ## Themes
 
-- 
-  :heart: ​http://jekyllthemes.org/
+- :heart: ​http://jekyllthemes.org/
 - :heart: ​https://github.com/jekyll/jekyll
 - :heart: https://jekyllthemes.dev/
 
